@@ -1,0 +1,20 @@
+body{
+    background:radial-gradient(lightblue,skyblue,cyan,blue,indigo);
+    background-repeat:no-repeat;
+
+}
+canvas{
+    margin-left: 10%;
+    width:100%;
+    border:15px solid #110f0f;
+    box-shadow:15px 15px 10px whitesmoke,25px 25px 20px rgb(209, 207, 207),-15px -15px 10px whitesmoke,-25px -25px 20px rgb(209, 207, 207);
+    padding: -5px;
+    margin-top:25px;
+    margin-bottom:20px;
+}
+a{
+    text-decoration: none;
+    font-weight: 900;
+
+    font-size: 40px;
+}
